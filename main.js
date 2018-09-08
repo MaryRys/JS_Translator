@@ -1,28 +1,28 @@
 const spanish = {
-    merry: Feliz
-    christmas: Navidad
-    and: y
-    happy: prospero
-    new: nuevo
-    year: ano
+    "merry": "Feliz"
+    "christmas": "Navidad"
+    "and": "y"
+    "happy": "prospero"
+    "new: "nuevo"
+    "year": "ano"
 }
 
 const german = {
-    merry: Frohe
-    christmas: Weihnachten
-    and: und ein
-    happy: gluckliches
-    new: Neues
-    year: Jahr
+    "merry": "Frohe"
+    "christmas": "Weihnachten"
+    "and": "und ein"
+    "happy": "gluckliches"
+    "new": "Neues"
+    "year": "Jahr"
 }
 
 const french = {
-    merry: joyeux
-    christmas: Noel
-    and: et
-    happy: bonne
-    new: nouvel
-    year: An
+    "merry": "joyeux"
+    "christmas": "Noel"
+    "and": "et"
+    "happy: "bonne"
+    "new": "nouvel"
+    "year": "An"
 }
 
 const printToDom = (stringToPrint, divId) => {
