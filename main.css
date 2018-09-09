@@ -1,0 +1,20 @@
+body {
+    background-color: slategray;
+    text-align: center;
+    color: maroon;
+}
+
+#inputBox{
+    padding: 5px;
+    margin: 10px;
+    border: 2px solid green;
+}
+#spanishButton,
+#germanButton,
+#frenchButton{
+    background-color: green;
+    padding: 5px;
+    margin: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14pt;
+}
