@@ -1,4 +1,10 @@
-### Holiday Translator
+# Holiday Translator
 
-## Description
-<p>This is a translator for a select few holiday phrases. Try "Merry Christmas and Happy New Year" in all three languages.</p>
+### Description
+This simple holiday translator can convert english words into a select few holiday greetings in Spanish, French, and German. Simply type in a lowercase holiday greeting and choose the language to translate to.
+
+### Screenshot(s)
+<img src="screenshots/screenshot.png">
+
+### Instructions
+There is no software needed to view this. You can run the code in a local server.
